@@ -1,5 +1,5 @@
-# TCA
-knowledge base correction
+# Rule learning 
+knowledge base clean and correction
 
 Test data: birthPlaceDataset.tsv,…, locationCountry.tsv
 Test_code: tca.java
